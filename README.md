@@ -1,1 +1,1 @@
-# Projet time series
+# Projet Time Series
